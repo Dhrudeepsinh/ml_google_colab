@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Editor/IDE files
+# .vscode/
+.idea/
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# Local configuration files
+local_settings.py
+
+# Temporary files
+*.tmp
